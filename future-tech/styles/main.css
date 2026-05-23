@@ -1048,9 +1048,4 @@ button[aria-label]::before {
   }
 }
 
-.header,
-.footer {
-  display: none !important;
-}
-
 /*# sourceMappingURL=main.css.map */
