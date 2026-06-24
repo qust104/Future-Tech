@@ -1,3 +1,5 @@
+const rootSelector = '[data-js-input-mask]'
+
 class InputMask {
     constructor(rootElement) {
         this.rootElement = rootElement
