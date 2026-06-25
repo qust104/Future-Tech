@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass">
 </p>
 
-[🔗 **Live Demo**](https://qust104.github.io/Future_Tech/future-tech/) · [📸 Screenshots](#-screenshots) · [🛠 Технологии](#-технологии) · [✨ Возможности](#-ключевые-возможности)
+[🔗 **Live Demo**](https://qust104.github.io/Future-Tech/index.html) · [🛠 Технологии](#-технологии) · [✨ Возможности](#-ключевые-возможности)
 
 </div>
 
