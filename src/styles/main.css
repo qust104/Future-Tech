@@ -2462,7 +2462,7 @@ button[aria-label]::before {
   width: var(--size);
   aspect-ratio: 1;
   content: "";
-  background: url("../../icons/arrow-down_white.svg") center/contain no-repeat;
+  background: url("../icons/arrow-down_white.svg") center/contain no-repeat;
   transition-duration: var(--transition-duration);
 }
 @media (width <= 90.06125rem) {

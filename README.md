@@ -19,37 +19,14 @@
 
 ---
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center"><b>Desktop</b></td>
-    <td align="center"><b>Responsive Design</b></td>
-  </tr>
-  <tr>
-    <td><img src="./src/images/screenshots/desktop.png" alt="Desktop"></td>
-    <td><img src="screenshots/responsive.png" alt="Responsive"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Interactive Components</b></td>
-    <td align="center"><b>Contacts Page</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/components.gif" alt="Components"></td>
-    <td><img src="screenshots/contacts.png" alt="Contacts"></td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Технологии
 
-| Категория | Стек |
-|---|---|
-| **Frontend** | HTML5, CSS3, SCSS, JavaScript (ES6+) |
-| **Библиотеки** | IMask.js (маски ввода) |
+| Категория | Стек                                   |
+|---|----------------------------------------|
+| **Frontend** | HTML5, CSS3, SCSS, JavaScript (ES6+)   |
+| **Библиотеки** | IMask.js (маски ввода тел. номера)     |
 | **Методологии** | БЭМ, ООП, Component-based Architecture |
-| **Build** | Sass, npm |
+| **Build** | Sass, npm                              |
 
 ---
 
@@ -175,7 +152,7 @@ npm run sass-watch
 ## 🏗 Структура проекта
 
 ```
-future-tech/
+src/
 ├── scripts/
 │   ├── BaseComponent.js      # Абстрактный класс с Proxy
 │   ├── Tabs.js               # Табы с keyboard nav
